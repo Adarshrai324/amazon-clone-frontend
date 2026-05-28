@@ -1,26 +1,72 @@
-# Amazon Clone Frontend
+# ShopVerse - Modern E-Commerce Frontend
 
-A responsive Amazon Clone website built using HTML and CSS.  
-This project recreates the basic Amazon homepage UI including navbar, hero section, shopping cards, and footer.
+A modern and responsive E-Commerce website frontend inspired by popular online shopping platforms.  
+Built using HTML5 and CSS3 with a clean UI, responsive layouts, product sections, and interactive design elements.
 
-## Features
-- Responsive Amazon-inspired UI
-- Navigation bar with search box
-- Hero banner section
-- Product category cards
-- Footer section
-- Clean and modern design
+---
 
-## Technologies Used
+## 🚀 Features
+
+- Responsive Navigation Bar
+- Modern Hero Section
+- Product Category Cards
+- Interactive UI Design
+- Clean Footer Section
+- Fully Responsive Layout
+- Modern E-Commerce Styling
+
+---
+
+## 🛠️ Technologies Used
+
 - HTML5
 - CSS3
 - Font Awesome
+- Google Fonts
 
+---
 
+## 💻 How to Run
 
-## How to Run
-1. Download or clone the repository
-2. Open `index.html` in your browser
+1. Clone the repository
 
-## Author
+```bash
+git clone https://github.com/your-username/shopverse-ecommerce.git
+```
+
+2. Open the project folder
+
+3. Run `index.html` in your browser
+
+---
+
+## ✨ Future Improvements
+
+- Dark Mode
+- Shopping Cart Functionality
+- Product Search
+- Login & Signup Page
+- Responsive Mobile Menu
+- JavaScript Interactions
+
+---
+
+## 📸 Preview
+
+Modern shopping website UI with:
+- Hero banners
+- Product sections
+- Responsive design
+- E-commerce inspired layout
+
+---
+
+## 👨‍💻 Author
+
 Adarsh Rai
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
