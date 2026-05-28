@@ -1,4 +1,4 @@
-amazon-clone-frontend
+AMAZON-CLONE-FRONTEND
 
 A modern and responsive E-Commerce website frontend inspired by popular online shopping platforms.  
 Built using HTML5 and CSS3 with a clean UI, responsive layouts, product sections, and interactive design elements.
